@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Suravarapu Sai Veera Charan
+
+I’m a passionate DevOps engineer with 3 years of experience in cloud technologies and automation. I specialize in building reliable CI/CD pipelines, managing infrastructure using tools like Terraform, and orchestrating containerized applications using Docker and Kubernetes.
+
+🔧 **Tools & Technologies**:
+- Cloud: AWS
+- CI/CD: Jenkins, GitLab 
+- Containers: Docker, Kubernetes
+- IaC: Terraform
+- Scripting - Shell, Python
 
 <!--
 **charansuravarapu/charansuravarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
